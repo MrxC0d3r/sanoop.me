@@ -1,0 +1,41 @@
+baseURL: https://sanoop.me/
+languageCode: en-us
+title: 	🧔 Sanoop's Space
+theme: ["PaperMod"]
+
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+params:
+  assets:
+    favicon: "/favicon.ico"
+  label:
+    text: "Sanoop's Space"
+    icon: /images/logo.png
+    iconHeight: 35
+  favicon: "/favicon.ico"
+  showReadingTime: true
+  showBreadCrumbs: true
+  showShareButtons: true
+  defaultTheme: light
+  homeInfoParams:
+    Title: "## Hi, I'm Sanoop"
+    Content: |
+      🖐️
+      ### Welcome to My Workshop 
+      
+      This is my personal space where I share the projects I’m working on and the things I’m learning along the way. I like to keep busy, explore new ideas, and build things with my hands.
+      
+      This blog is a place for me to document my journey and hopefully inspire others to start their own projects. Thanks for stopping by, and feel free to follow along!
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories
+      weight: 10
+    - identifier: archives
+      name: Archieves
+      url: /archives
+      weight: 10  

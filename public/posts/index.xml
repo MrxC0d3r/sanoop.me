@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 🧔 Sanoop&#39;s Space</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 🧔 Sanoop&#39;s Space</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2024 18:43:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 1 - Home Lab: How It All Started and My Initial Network Setup</title>
+      <link>http://localhost:1313/posts/home-lab-journey-part-1/</link>
+      <pubDate>Tue, 15 Oct 2024 18:43:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/home-lab-journey-part-1/</guid>
+      <description>&lt;p&gt;For years, I had been toying with the idea of setting up a home lab. As someone who works in tech—programming, managing engineering teams, and designing solutions—getting my hands dirty with technology is second nature to me. But for some reason, starting my home lab was something I kept putting off.&lt;/p&gt;
+&lt;h2 id=&#34;procrastination-and-the-tipping-point&#34;&gt;Procrastination and the Tipping Point&lt;/h2&gt;
+&lt;p&gt;For months, I kept putting off starting my home lab. Every time I thought about it, the sheer amount of work involved made me pause—running Ethernet cables through the house, purchasing new hardware, and reconfiguring the network all felt overwhelming. With limited spare time outside of work, it was easier to stick with my current setup and tell myself, &amp;ldquo;I&amp;rsquo;ll get to that home lab project soon.&amp;rdquo; But, soon kept getting pushed further down the line.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
