@@ -34,8 +34,8 @@ menu:
     - identifier: categories
       name: Categories
       url: /categories
-      weight: 10
+      weight: 9
     - identifier: archives
       name: Archieves
       url: /archives
-      weight: 10  
+      weight: 9  
