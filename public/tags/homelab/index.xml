@@ -6,8 +6,15 @@
     <description>Recent content in Homelab on 🧔 Sanoop&#39;s Space</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2024 18:43:58 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 05:54:22 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 2 - Home Lab: Extending homenetwork to attic</title>
+      <link>http://localhost:1313/posts/home-lab-journey-part-2/</link>
+      <pubDate>Sun, 20 Oct 2024 05:54:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/home-lab-journey-part-2/</guid>
+      <description>&lt;p&gt;There I was, staring at a tangled mess of Ethernet cables, jacks, and tools, completely clueless about where to start. It was a humbling moment, and honestly, a bit frustrating. What seemed like a straightforward plan to set up a home network from my living room to the attic had quickly turned into a chaotic reality. But it was all part of the process, and I was about to learn way more than I ever imagined — from crimping cables and wiring standards to discovering that routers are often full of surprises.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Part 1 - Home Lab: How It All Started and My Initial Network Setup</title>
       <link>http://localhost:1313/posts/home-lab-journey-part-1/</link>

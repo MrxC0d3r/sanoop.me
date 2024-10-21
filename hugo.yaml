@@ -2,13 +2,16 @@ baseURL: https://sanoop.me/
 languageCode: en-us
 title: 	🧔 Sanoop's Space
 theme: ["PaperMod"]
-
+enableEmoji: true
 
 taxonomies:
   tag: "tags"
   category: "categories"
 
 params:
+  comments: true
+  page:
+    ShowToc: true
   assets:
     favicon: "/favicon.ico"
   label:
@@ -16,6 +19,7 @@ params:
     icon: /images/logo.png
     iconHeight: 35
   favicon: "/favicon.ico"
+  comments: true
   showReadingTime: true
   showBreadCrumbs: true
   showShareButtons: true
