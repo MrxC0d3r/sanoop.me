@@ -56,7 +56,7 @@ T568B Color Code
 - Pin 8: Brown
 ```
 
-![Crimping process and wiring pattern for T568B vs. T568A](/images/homelab/crimping-guide.jpg)
+![Crimping process and wiring pattern for T568B vs. T568A](/images/homelab/t568.png)
 
 ## Running the Cable: From Living Room to Attic
 Once the crimping drama was behind me, it was time to tackle the next big job: actually running the cable from the living room, through the walls, and up to the attic. Now, if you’ve never run cables through a house, let me tell you—it’s a workout. There’s a lot of crawling through tight spaces, fishing cables through tiny holes, and a lot of patience involved.
