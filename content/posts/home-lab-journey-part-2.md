@@ -6,6 +6,8 @@ tags: ["Homelab", "Networking", "DIY"]
 categories: ["Projects"]
 ---
 
+Part 1 [Home Lab Journey - Part 1](https://sanoop.me/posts/home-lab-journey-part-1/)  
+
 There I was, staring at a tangled mess of Ethernet cables, jacks, and tools, completely clueless about where to start. It was a humbling moment, and honestly, a bit frustrating. What seemed like a straightforward plan to set up a home network from my living room to the attic had quickly turned into a chaotic reality. But it was all part of the process, and I was about to learn way more than I ever imagined — from crimping cables and wiring standards to discovering that routers are often full of surprises.
 
 ## A Trip to the Store: The First Challenge

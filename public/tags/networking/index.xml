@@ -6,8 +6,17 @@
     <description>Recent content in Networking on 🧔 Sanoop&#39;s Space</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2024 05:54:22 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 17:48:51 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 3 - Home Lab: Final Setup</title>
+      <link>http://localhost:1313/posts/home-lab-journey-part-3/</link>
+      <pubDate>Sat, 09 Nov 2024 17:48:51 +0530</pubDate>
+      <guid>http://localhost:1313/posts/home-lab-journey-part-3/</guid>
+      <description>&lt;p&gt;Part 1 &lt;a href=&#34;https://sanoop.me/posts/home-lab-journey-part-1/&#34;&gt;Home Lab Journey - Part 1&lt;/a&gt;&lt;br&gt;
+Part 2 &lt;a href=&#34;https://sanoop.me/posts/home-lab-journey-part-2/&#34;&gt;Home Lab Journey - Part 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the final post in my series about building my home network and homelab. What started as a straightforward plan to extend my network to the attic gradually turned into a full-scale project with racks, servers, cables, and a lot of trial and error. After months of planning, problem-solving, and learning from unexpected roadblocks, I’m excited to share the full story of how it all came together.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Part 2 - Home Lab: Extending homenetwork to attic</title>
       <link>http://localhost:1313/posts/home-lab-journey-part-2/</link>
