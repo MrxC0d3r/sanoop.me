@@ -16,7 +16,7 @@ It felt like proof I was doing something right—creating a space where people f
 But recently, I’ve started asking myself a harder question:  
 **At what cost?**
 
-The other night, at 10:25 PM, one of my team members called. I picked up, and she said she wanted to give me an update.
+Earlier tonigh at 10:25 PM, one of my team members called. I picked up, and she said she wanted to give me an update.
 
 Earlier that day, I had shared a simple message with the team:  
 “I’m out of office due to a death in my family. Please direct urgent requests to Sandip.”
