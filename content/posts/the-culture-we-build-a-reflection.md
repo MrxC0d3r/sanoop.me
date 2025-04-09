@@ -1,10 +1,20 @@
 ---
-title: 'Not Just About the Update'
+title: 'The Culture We Build: A Reflection'
 date: 2025-04-09T22:15:00+05:30
 draft: false
 tags: ["Leadership", "Culture", "Boundaries", "Teamwork"]
 categories: ["Reflection"]
 ---
+
+My attrition rate has been zero for the last three years.
+
+In this industry, that’s rare. People move fast. Offers fly around.  
+But my team stayed. I was proud of that. Still am.
+
+It felt like proof I was doing something right—creating a space where people felt supported, where we delivered, where we stuck together.
+
+But recently, I’ve started asking myself a harder question:  
+**At what cost?**
 
 The other night, at 10:25 PM, one of my team members called. I picked up, and she said she wanted to give me an update.
 
@@ -38,6 +48,12 @@ That’s the kind of leadership that lasts.
 So no—this moment wasn’t about the update.  
 It was a small thing that revealed a deeper truth:  
 We teach people how to treat each other by how we show up. Even in silence.
+
+And for me, this reflection came on a hard night—just hours after I lost my grandmother.  
+I wasn’t planning to write anything. But maybe that’s when these things surface.  
+When you’re forced to pause.  
+When everything’s a bit quieter.  
+And you start seeing things a little more clearly.
 
 I’m not sharing this to make a point.  
 Just to say: I’m learning, too.
