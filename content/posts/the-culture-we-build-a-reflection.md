@@ -32,7 +32,7 @@ She meant well. She’s proactive, responsible, thoughtful.
 She wasn’t being disrespectful—she just assumed I’d want to be kept in the loop. That I’d still be available, because I usually am.  
 And that made me pause.
 
-It reminded me how easily we, as leaders, shape a culture without meaning to.  
+It reminded me how easily we shape a culture without meaning to.  
 We don’t need to say “call me anytime”—people pick it up from how we behave.  
 From the late replies. From the constant presence. From never really logging off.
 
